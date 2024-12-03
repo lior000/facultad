@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Facultad de Enfermería de Culiacán</title>
+    <style>
+        body {
+            font-family: Roboto condensada;
+            margin: 0;
+            padding: 0;
+        }
+        .banner {
+            background-color: #:29abe2;
+            color: white;
+            text-align: center;
+            padding: 50px 20px;
+        }
+        .banner h1 {
+            font-size: 3em;
+            margin: 0;
+        }
+        .banner p {
+            font-size: 1.2em;
+        }
+    </style>
+</head>
+<body>
+    <div class="banner">
+        <h1>Facultad de Enfermería de Culiacán</h1>
+        </div>
+</body>
+</html>
